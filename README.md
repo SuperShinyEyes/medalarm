@@ -1,7 +1,8 @@
 medalarm
 ========
+Medalarm - Medicine alarm
 
-Medalarm: Medicine alarm
+Tutorial: https://youngxotaniemi.wordpress.com/2014/12/15/arduino-25-medalarm/
 
 Problem: I take medicine everyday but it’s hard to remember everyday even though I have alarm set on my cell phone – I might not be at home when the alarm rings. The other problem is I don’t always remember if I have already taken medicine or not which might be a bigger issue.
 
